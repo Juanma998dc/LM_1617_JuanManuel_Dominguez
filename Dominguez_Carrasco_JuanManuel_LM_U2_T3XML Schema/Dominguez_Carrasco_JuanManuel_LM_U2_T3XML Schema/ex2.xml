@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <book>
+        <tittle>A Semantic Web Primer</tittle>
+        <autors>Antoniou, G. and F. van Harmelen</autors>
+        <year>2004</year>
+        <editorial>Cambridge, MA: MIT Press</editorial>
+    </book>
+    <book>
+        <tittle>The Semantic Web: A Guide to the Future of XML, Web Services, and Knowledge Management</tittle>
+        <autors>Daconts, M.C., L.J. Orbst, and K.T. Smith</autors>
+        <year>2003</year>
+        <editorial>New York: Wiley</editorial>
+    </book>
+</shop>

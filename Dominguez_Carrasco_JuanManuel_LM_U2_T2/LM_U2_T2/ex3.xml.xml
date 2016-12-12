@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE cateneMontuose[
+<!ELEMENT cateneMontouse (catenaMontuosa*)>
+<!ELEMENT catenaMontuosa (monte+)>
+<!ELEMENT monte (nome,regione?,altezza?)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT regione (#PCDATA)>
+<!ELEMENT altezza (#PCDATA)>
+<!ATTLIST altezza unitaMisura CDATA #REQUIRED>
+]>
+<cateneMontuose>
+    <catenaMontuosa>
+      <monte>
+        <nome> Papadoupoulos </nome>
+        <regione> Valle d´Floren </regione>
+        <altezza unitaMisura="metri">3241</altezza>
+      </monte>
+    </catenaMontuosa>
+    <catenaMontuosa>
+      <monte>
+        <nome>Flotien</nome>
+      </monte>
+    </catenaMontuosa>
+</cateneMontuose>

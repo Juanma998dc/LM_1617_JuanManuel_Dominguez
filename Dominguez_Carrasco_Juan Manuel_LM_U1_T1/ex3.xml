@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<Cookbook name="Pesadilla en la cocina">
+
+
+   <Recipe name="Hamburguesa de conejo" difficulty="Media" time="10 min">
+
+    <Ingredients>
+
+        <Ingredient name="100gr de costilla de conejo">
+        </Ingredient>
+
+        <Ingredient name="50gr de boletus">
+        </Ingredient>
+
+        <Ingredient name="50gr de cebolleta fresca">
+        </Ingredient>
+
+        <Ingredient name="30gr de parmesano">
+        </Ingredient>
+
+        <Ingredient name="Pizca de sal">
+        </Ingredient>
+
+        <Ingredient name="Aceite">
+        </Ingredient>
+
+        <Ingredient name="3 Huevos de codorniz">
+        </Ingredient>
+
+        <Ingredient name="Pan de semillas">
+        </Ingredient>
+
+        <Ingredient name="Lechuga batavia">
+        </Ingredient>
+
+    </Ingredients>
+
+      <Process>
+
+          <Step name="Mezclar en una picadora la carne de conejo con el boletus, la cebolleta fresca y la sal"></Step>
+
+          <Step name="En una plancha hacer la hamburguesa por un lado, tostar los panes y hacer los huevos"></Step>
+
+          <Step name="Dar la vuelta a la hamburguesa y sobre el lado hecho poner el parmesano"></Step>
+
+          <Step name="Montar la hamburguesa"></Step>
+
+     </Process>
+
+  </Recipe>
+
+
+  <Recipe name="Lomo al horno" difficulty="Facil" time="110 min">
+
+    <Ingredients>
+
+        <Ingredient name="1 Lomo de cerdo"></Ingredient>
+
+        <Ingredient name="6 Esparragos trigerosname"></Ingredient>
+
+        <Ingredient name="12 Lonchas de queso curadoname"></Ingredient>
+
+        <Ingredient name="300ml de vino De Oporto"></Ingredient>
+
+        <Ingredient name="100gr de mantequilla"></Ingredient>
+
+        <Ingredient name="8 Dientes de ajo"></Ingredient>
+
+        <Ingredient name="1 Berenjena"></Ingredient>
+
+    </Ingredients>
+
+      <Process>
+
+          <Step name="Abrir la carne en libro"></Step>
+
+          <Step name="Repartir por igual los esparragos, el queso, la berenjena y los ajos"></Step>
+
+          <Step name="Cerrar la carne y sellarla en la sarten"></Step>
+
+          <Step name="Enbadurnar la carne en mantequilla"></Step>
+
+          <Step name="Colocarlo en una fuente de cristal y bañarlo en agua y vino"></Step>
+
+          <Step name="Meter al horno a 220 Grados y 70 min"></Step>
+
+     </Process>
+
+
+  </Recipe>
+
+</Cookbook>

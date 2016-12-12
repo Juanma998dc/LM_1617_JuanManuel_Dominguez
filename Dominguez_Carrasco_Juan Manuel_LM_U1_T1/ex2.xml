@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Bus name="102">
+
+  <Route name="Los Remedios" duration="20 min"
+       distance="15 km">
+
+       <Stops>
+
+         <Stop name="Blas Infante" next="Parque de los Principes" distance="3 km" hour="2 min"></Stop>
+
+         <Stop name="Parque de los Principes" next="Plaza de Cuba" distance="2 km" hour="3 min"></Stop>
+
+         <Stop name="Plaza de Cuba" next="Puerta Jerez" distance="4 km" hour="5 min"></Stop>
+
+         <Stop name="Puerta Jerez" next="San Bernardo" distance="4 km" hour="5 min"></Stop>
+
+         <Stop name="San Bernardo" next="Nervion" distance="5 km" hour="5 min"></Stop>
+
+       </Stops>
+
+  </Route>
+
+</Bus>

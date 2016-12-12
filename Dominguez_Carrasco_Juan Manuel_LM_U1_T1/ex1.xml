@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+ <teacher>
+     <subject name="Base de datos">
+       <hours hours="10"></hours>
+        <teacher name="Juan Diego"></teacher>
+
+          <student name="Pablo" surname="Iglesias"
+                   address="podemos@gmail.com"
+                   tlf="666666666"
+                   mark="4"></student>
+
+          <student name="Xabi" surname="Hernandez"
+                   address="fcb@gmail.com"
+                   tlf="888888888"
+                   mark="8"></student>
+
+          <student name="Armando" surname="Guerra"
+                   address="aguerra@gmail.com"
+                   tlf="888777666"
+                   mark="6"></student>
+
+          <student name="Jose Maria" surname="del Nido"
+                   address="moneysfc@gmail.com"
+                   tlf="789876546"
+                   mark="5"></student>
+
+          <student name="Frederic" surname="Kanoute"
+                   address="sfc2005@gmail.com"
+                   tlf="678456435"
+                   mark="10"></student>
+
+          <student name="Parrales" surname="Chimichanga"
+                   address="mrecio@gmail.com"
+                   tlf="684933847"
+                   mark="8"></student>
+
+          <student name="Paco" surname="Cacerola"
+                   address="cocina@gmail.com"
+                   tlf="655473847"
+                   mark="7"></student>
+
+          <student name="Snoop" surname="Dog"
+                   address="weed@gmail.com"
+                   tlf="687364534"
+                   mark="10"></student>
+
+          <student name="Ronaldo" surname="Nazario"
+                   address="comida@gmail.com"
+                   tlf="645362253"
+                   mark="8"></student>
+
+          <student name="Will" surname="Smith"
+                   address="robocop@gmail.com"
+                   tlf="633422534"
+                   mark="4"></student>
+    </subject>
+
+    <subject name="Lenguaje de marcas">
+       <hours hours="10"></hours>
+        <teacher name="Jose Mourinho"></teacher>
+
+          <student name="Pablo" surname="Iglesias"
+                   address="podemos@gmail.com"
+                   tlf="666666666"
+                   mark="5"></student>
+
+          <student name="Xabi" surname="Hernández"
+                   address="fcb@gmail.com"
+                   tlf="888888888"
+                   mark="5"></student>
+
+          <student name="Armando" surname="Guerra"
+                   address="aguerra@gmail.com"
+                   tlf="888777666"
+                   mark="5"></student>
+
+          <student name="Jose María" surname="del Nido"
+                   address="moneysfc@gmail.com"
+                   tlf="789876546"
+                   mark="8"></student>
+
+          <student name="Fréderic" surname="Kanoute"
+                   address="sfc2005@gmail.com"
+                   tlf="678456435"
+                   mark="8"></student>
+
+          <student name="Parrales" surname="Chimichanga"
+                   address="mrecio@gmail.com"
+                   tlf="684933847"
+                   mark="6"></student>
+
+          <student name="Paco" surname="Cacerola"
+                   address="cocina@gmail.com"
+                   tlf="655473847"
+                   mark="5"></student>
+
+          <student name="Snoop" surname="Dog"
+                   address="weed@gmail.com"
+                   tlf="687364534"
+                   mark="7"></student>
+
+          <student name="Ronaldo" surname="Nazario"
+                   address="comida@gmail.com"
+                   tlf="645362253"
+                   mark="4"></student>
+
+          <student name="Will" surname="Smith"
+                   address="robocop@gmail.com"
+                   tlf="633422534"
+                   mark="5"></student>
+
+     </subject>
+  </teacher>

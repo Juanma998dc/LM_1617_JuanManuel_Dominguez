@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE games[
+<!ELEMENT games (game)*>
+<!ELEMENT game (home-team,ex-team,scores,yellows)>
+<!ELEMENT home-team (#PCDATA)>
+<!ELEMENT ex-team (#PCDATA)>
+<!ELEMENT scores (score)*>
+<!ELEMENT yellows (player)*>
+<!ELEMENT score (player)*>
+<!ELEMENT player (#PCDATA)>
+<!ATTLIST game score CDATA #REQUIRED>
+<!ATTLIST score time CDATA #REQUIRED>
+]>
+<games>
+    <game score="5-0">
+       <home-team>Sevilla</home-team>
+       <ex-team>Betis</ex-team>
+       <scores>
+          <score time="7">
+            <player>Reyes</player>
+          </score>
+          <score time="14">
+            <player>Vitolo</player>
+          </score>
+          <score time="16">
+            <player>Pareja</player>
+          </score>
+          <score time="56">
+            <player>Reyes</player>
+          </score>
+          <score time="63">
+            <player>Bacca</player>
+          </score>
+       </scores>
+       <yellows>
+            <player>Bruno</player>
+       </yellows>
+    </game>
+</games>
